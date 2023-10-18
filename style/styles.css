@@ -1,0 +1,30 @@
+.changeme {
+    font-size: 40px;
+}
+
+.centerthis {
+    text-align: center;
+}
+
+.pad {
+    padding-top: 40px;
+    padding-left: 20px;
+}
+
+.boxMode {
+    margin: 0 auto;
+    padding: 10px;
+    width: 130px;
+    height: 160px;
+    border: 2px solid #000000;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body{
+    background-color: rgb(213, 252, 250);
+}
+
+.movepic{
+    justify-content: right;
+}
+
